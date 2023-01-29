@@ -22,3 +22,4 @@ d = "ABCDE"
 print(type(d))
 e = 98
 print(type(e))
+print("I am learning about github")
