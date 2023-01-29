@@ -20,3 +20,5 @@ c = 1 + 10j
 print("Type of c:" , type(c))
 d = "ABCDE"
 print(type(d))
+e = 98
+print(type(e))
