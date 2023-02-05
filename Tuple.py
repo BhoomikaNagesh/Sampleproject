@@ -1,0 +1,21 @@
+t1 = ('a', 'b', 'c', 'd', 'e')
+print(t1)
+t2 = ('1', '2')
+t3 = ('3', '4')
+t4 = t2 + t3
+print(t4)
+t5 = t2*3
+print(t5)
+y = len(t1)
+print(y)
+x = t1.count('a')
+print(x)
+z = t1.index('d')
+print(z)
+print(t1[0])
+tnew = (100, 200, [300,400], 500)
+print(tnew)
+print(tnew[1])
+print(tnew[2])
+tnew[2][0] = 3000
+print(tnew)
